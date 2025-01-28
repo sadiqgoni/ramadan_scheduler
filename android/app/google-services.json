@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254323150158",
+    "project_id": "prayerschedule",
+    "storage_bucket": "prayerschedule.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254323150158:android:a254a170f5aeeca04e621f",
+        "android_client_info": {
+          "package_name": "com.example.ramadan_scheduler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTPE9WJDRkpJj-kkjXoEoJaRIR6SCKFpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
