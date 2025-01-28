@@ -32,13 +32,14 @@ class MyApp extends StatelessWidget {
         title: 'Ramadan Prayer Schedule',
         theme: ThemeData(
           primarySwatch: Colors.green,
+          visualDensity: VisualDensity.adaptivePlatformDensity,
           scaffoldBackgroundColor: Colors.white,
           appBarTheme: const AppBarTheme(
             backgroundColor: Colors.green,
             foregroundColor: Colors.white,
           ),
         ),
-        home: const LoginScreen(),
+        home: const HomeScreen(),
         routes: {
           '/login': (context) => const LoginScreen(),
           '/register': (context) => const RegistrationScreen(),
